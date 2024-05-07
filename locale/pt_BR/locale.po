@@ -4,6 +4,9 @@ msgstr "Exibir comentários"
 msgid "plugins.generic.docMapReviews.description"
 msgstr "Este plugin permite que revisões de pré-impressão sejam exibidas na página de detalhes da pré-impressão."
 
+msgid "plugins.generic.docMapReviews.reviews"
+msgstr "Comentários"
+
 msgid "plugins.generic.docMapReviews.displayReviews"
 msgstr "Exibir comentários"
 

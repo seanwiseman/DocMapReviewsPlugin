@@ -4,6 +4,9 @@ msgstr "Display Reviews"
 msgid "plugins.generic.docMapReviews.description"
 msgstr "This plugin allows preprint reviews to be displayed on the preprint detail page."
 
+msgid "plugins.generic.docMapReviews.reviews"
+msgstr "Reviews"
+
 msgid "plugins.generic.docMapReviews.displayReviews"
 msgstr "Display Reviews"
 

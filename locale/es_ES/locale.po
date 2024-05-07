@@ -4,6 +4,9 @@ msgstr "Mostrar reseñas"
 msgid "plugins.generic.docMapReviews.description"
 msgstr "Este complemento permite que las revisiones de preimpresión se muestren en la página de detalles de la preimpresión."
 
+msgid "plugins.generic.docMapReviews.reviews"
+msgstr "Reseñas"
+
 msgid "plugins.generic.docMapReviews.displayReviews"
 msgstr "Mostrar reseñas"
 
