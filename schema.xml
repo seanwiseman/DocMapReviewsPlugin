@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE schema SYSTEM "../../../lib/pkp/dtd/xmlSchema.dtd">
+
+<!--
+  * plugins/generic/docMapReviews/schema.xml
+  *
+  * DocMapReviewsPlugin DB XML schema.
+  *
+  -->
+
+<schema version="0.2">
+    <table name="display_reviews_preferences">
+        <field name="submission_id" type="I8">
+            <NOTNULL/>
+        </field>
+        <field name="display_reviews" type="L">
+            <NOTNULL/>
+            <DEFAULT VALUE="1"/>
+        </field>
+        <descr>List of DocMap Reviews preferences</descr>
+    </table>
+</schema>

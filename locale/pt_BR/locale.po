@@ -1,0 +1,38 @@
+msgid "plugins.generic.docMapReviews.displayName"
+msgstr "Exibir comentários"
+
+msgid "plugins.generic.docMapReviews.description"
+msgstr "Este plugin permite que revisões de pré-impressão sejam exibidas na página de detalhes da pré-impressão."
+
+msgid "plugins.generic.docMapReviews.displayReviews"
+msgstr "Exibir comentários"
+
+msgid "plugins.generic.docMapReviews.preferences"
+msgstr "Preferências"
+
+msgid "plugins.generic.docMapReviews.noReviewsAvailable"
+msgstr "Nenhuma avaliação disponível"
+
+msgid "plugins.generic.docMapReviews.displayReviewPreferencesUpdatedDisplayed"
+msgstr "Os comentários serão exibidos"
+
+msgid "plugins.generic.docMapReviews.displayReviewPreferencesUpdatedNotDisplayed"
+msgstr "As avaliações não serão exibidas"
+
+msgid "plugins.generic.docMapReviews.displayReviewsPreferences"
+msgstr "Exibir preferências de avaliações"
+
+msgid "plugins.generic.docMapReviews.prePubDescriptionPartOne"
+msgstr "Você pode optar por exibir na página pública do preprint todas as avaliações recebidas das opções de avaliação selecionadas acima, se o seu preprint for aceito. Se você optar por exibir as avaliações, todas elas ficarão visíveis para qualquer pessoa que visualizar o preprint. Você não pode escolher quais avaliações serão exibidas."
+
+msgid "plugins.generic.docMapReviews.prePubDescriptionPartTwo"
+msgstr "É altamente recomendável exibir as avaliações como uma forma de promover e incentivar a prática da avaliação por pares aberta."
+
+msgid "plugins.generic.docMapReviews.prePubDescriptionPartThree"
+msgstr "Não é possível alterar sua resposta depois que o preprint for postado em nosso servidor."
+
+msgid "plugins.generic.docMapReviews.displayReviewsPreferencesIntro"
+msgstr "Abaixo, você encontrará sua preferência para exibir quaisquer avalições associadas ao seu preprint."
+
+msgid "plugins.generic.docMapReviews.postPubDescription"
+msgstr "Não é possível alterar sua resposta porque o preprint já está postado em nosso servidor."

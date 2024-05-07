@@ -1,0 +1,38 @@
+msgid "plugins.generic.docMapReviews.displayName"
+msgstr "Display Reviews"
+
+msgid "plugins.generic.docMapReviews.description"
+msgstr "This plugin allows preprint reviews to be displayed on the preprint detail page."
+
+msgid "plugins.generic.docMapReviews.displayReviews"
+msgstr "Display Reviews"
+
+msgid "plugins.generic.docMapReviews.preferences"
+msgstr "Preferences"
+
+msgid "plugins.generic.docMapReviews.noReviewsAvailable"
+msgstr "No Reviews Available"
+
+msgid "plugins.generic.docMapReviews.displayReviewPreferencesUpdatedDisplayed"
+msgstr "Reviews will be displayed"
+
+msgid "plugins.generic.docMapReviews.displayReviewPreferencesUpdatedNotDisplayed"
+msgstr "Reviews will not be displayed"
+
+msgid "plugins.generic.docMapReviews.displayReviewsPreferences"
+msgstr "Display Reviews Preferences"
+
+msgid "plugins.generic.docMapReviews.prePubDescriptionPartOne"
+msgstr "You may choose to display on the preprint public page any reviews received from the review options selected above, if your preprint is accepted. If you choose to display the reviews, all reviews will be visible to anyone who views the preprint. You cannot choose which reviews to display."
+
+msgid "plugins.generic.docMapReviews.prePubDescriptionPartTwo"
+msgstr "We highly recommend displaying reviews as a way to promote and encourage the practice of open peer review."
+
+msgid "plugins.generic.docMapReviews.prePubDescriptionPartThree"
+msgstr "You cannot change your answer once the preprint is posted in our server"
+
+msgid "plugins.generic.docMapReviews.displayReviewsPreferencesIntro"
+msgstr "Below you will find your preference to display any reviews associated to your preprint."
+
+msgid "plugins.generic.docMapReviews.postPubDescription"
+msgstr "You cannot change your answer because the preprint is already posted in our server."
