@@ -348,8 +348,7 @@ class DocMapReviewsPlugin extends GenericPlugin {
         $shouldDisplayReviews = $this->getDocMapReviewsPreference($idPreprint);
 
         if ($shouldDisplayReviews) {
-//            $doi = $this->getDoiById($idPreprint);
-            $doi = "10.21203/rs.3.rs-955726/v1";
+            $doi = $this->getDoiById($idPreprint);
             $reviewGroups = $this->fetchDocMapReviewsByGroup($doi);
             $templateMgr->assign(
                 array(
