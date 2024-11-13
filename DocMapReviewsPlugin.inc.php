@@ -257,7 +257,7 @@ class DocMapReviewsPlugin extends GenericPlugin {
     }
 
     function validateDocMapPayload($payload) {
-        if ($payload == ["message" => "Invalid DOI requested"]) {
+        if (is_string($payload) || $payload == ["message" => "Invalid DOI requested"]) {
             return false;
         }
         return true;
@@ -292,9 +292,6 @@ class DocMapReviewsPlugin extends GenericPlugin {
         // close curl resource to free up system resources
         curl_close($ch);
         $data = json_decode($result, true);
-
-        // TODO - Iterate over groups of reviews
-
         $reviewGroups = array();
         $groupId = 0;
 
